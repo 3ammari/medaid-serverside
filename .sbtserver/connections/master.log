@@ -1,0 +1,138 @@
+New log file opened at Sun May 15 04:24:04 EAT 2016 by 23450@abdulrahman-Presario-CQ56-Notebook-PC
+Taking next connection to: 32800
+New client attempting to connect on port: 49327-32800
+  Address = /127.0.1.1:32800
+This client on port 49327 has uuid a4eddf47-14e9-4e31-9ff0-238d4f694456 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-a4eddf47-14e9-4e31-9ff0-238d4f694456
+Taking next connection to: 32800
+New client attempting to connect on port: 49351-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49351
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:196)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49352-32800
+  Address = /127.0.1.1:32800
+This client on port 49352 has uuid 311a607a-b998-41bd-aa05-fcea6998816a configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-a4eddf47-14e9-4e31-9ff0-238d4f694456, activator-311a607a-b998-41bd-aa05-fcea6998816a
+Taking next connection to: 32800
+New client attempting to connect on port: 49364-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49364
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:196)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49365-32800
+  Address = /127.0.1.1:32800
+This client on port 49365 has uuid 87aa13e9-7969-4e1b-a0b9-2064e367f0d4 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4
+Taking next connection to: 32800
+New client attempting to connect on port: 49366-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49366
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49367-32800
+  Address = /127.0.1.1:32800
+This client on port 49367 has uuid 832e1f4b-475e-49ed-a972-1a468e707db7 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4, activator-832e1f4b-475e-49ed-a972-1a468e707db7
+Taking next connection to: 32800
+New client attempting to connect on port: 49380-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49380
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:196)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49381-32800
+  Address = /127.0.1.1:32800
+This client on port 49381 has uuid 0ee263d9-413f-4b8a-b12f-ed984e890722 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-0ee263d9-413f-4b8a-b12f-ed984e890722
+Taking next connection to: 32800
+New client attempting to connect on port: 49382-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49382
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:196)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49383-32800
+  Address = /127.0.1.1:32800
+This client on port 49383 has uuid 85be8737-a94c-4d01-bb97-f24cb3488a0d configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-0ee263d9-413f-4b8a-b12f-ed984e890722, activator-85be8737-a94c-4d01-bb97-f24cb3488a0d
+Taking next connection to: 32800
+New client attempting to connect on port: 49396-32800
+  Address = /127.0.1.1:32800
+Handshake exception on socket: 49396
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:196)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:254)
+	at java.io.DataInputStream.readInt(DataInputStream.java:387)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 32800
+New client attempting to connect on port: 49397-32800
+  Address = /127.0.1.1:32800
+This client on port 49397 has uuid 87775d11-a390-4a15-8ac6-d319171f5b8b configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-87775d11-a390-4a15-8ac6-d319171f5b8b
+Taking next connection to: 32800
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 32800

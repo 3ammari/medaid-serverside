@@ -1,0 +1,9 @@
+New log file opened at Sun May 15 04:26:34 EAT 2016 by 23450@abdulrahman-Presario-CQ56-Notebook-PC
+Sending msg to client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/master.log))
+Sending msg to client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /home/abdul-rahman/MedAid/.sbtserver/master.log))
+Sending msg to client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/activator-85be8737-a94c-4d01-bb97-f24cb3488a0d.log))
+Reading next message from client.
+Client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d EOF, shutting down.
+Stopping client.
+Client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d thread exiting.
+Dropping message (0,ReceivedResponse()) to dead client activator-85be8737-a94c-4d01-bb97-f24cb3488a0d

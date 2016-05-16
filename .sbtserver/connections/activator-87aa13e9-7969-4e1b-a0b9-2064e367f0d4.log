@@ -1,0 +1,25 @@
+New log file opened at Sun May 15 04:26:00 EAT 2016 by 23450@abdulrahman-Presario-CQ56-Notebook-PC
+Sending msg to client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/master.log))
+Sending msg to client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /home/abdul-rahman/MedAid/.sbtserver/master.log))
+Sending msg to client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Sending msg to client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4: (3,ReceivedResponse())
+Got request: ListenToBuildChange()
+Reading next message from client.
+Got request: SendSyntheticBuildChanged()
+Reading next message from client.
+Got request: KeyLookupRequest(discoveredMainClasses)
+Reading next message from client.
+Got request: KeyLookupRequest(mainClass)
+Reading next message from client.
+Got request: UnlistenToEvents()
+Reading next message from client.
+Sending msg to client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4: (8,ReceivedResponse())
+Got request: UnlistenToBuildChange()
+Reading next message from client.
+Client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4 EOF, shutting down.
+Stopping client.
+Client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4 thread exiting.
+Dropping message (0,ReceivedResponse()) to dead client activator-87aa13e9-7969-4e1b-a0b9-2064e367f0d4

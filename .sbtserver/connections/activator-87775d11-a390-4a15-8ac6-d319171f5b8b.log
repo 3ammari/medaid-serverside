@@ -1,0 +1,18 @@
+New log file opened at Sun May 15 04:27:04 EAT 2016 by 23450@abdulrahman-Presario-CQ56-Notebook-PC
+Sending msg to client activator-87775d11-a390-4a15-8ac6-d319171f5b8b: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/master.log))
+Sending msg to client activator-87775d11-a390-4a15-8ac6-d319171f5b8b: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /home/abdul-rahman/MedAid/.sbtserver/master.log))
+Sending msg to client activator-87775d11-a390-4a15-8ac6-d319171f5b8b: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /home/abdul-rahman/MedAid/.sbtserver/connections/activator-87775d11-a390-4a15-8ac6-d319171f5b8b.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Sending msg to client activator-87775d11-a390-4a15-8ac6-d319171f5b8b: (3,ReceivedResponse())
+Got request: ListenToBuildChange()
+Reading next message from client.
+Got request: SendSyntheticBuildChanged()
+Reading next message from client.
+Got request: KeyLookupRequest(discoveredMainClasses)
+Reading next message from client.
+Got request: KeyLookupRequest(mainClass)
+Reading next message from client.
+Got request: ExecutionRequest(compile)
+Reading next message from client.
